@@ -1,0 +1,1 @@
+# namada-node-bash-monitoring
